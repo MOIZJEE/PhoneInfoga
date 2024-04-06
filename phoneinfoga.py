@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 #
 # @name   : PhoneInfoga - Phone numbers OSINT tool
-# @url    : https://github.com/sundowndev
+# @url    :c
 # @author : Raphael Cerveaux (sundowndev)
 
 # dependencies
