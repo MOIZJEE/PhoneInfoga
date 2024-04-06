@@ -5,21 +5,7 @@
 # @url    : https://github.com/sundowndev
 # @author : Raphael Cerveaux (sundowndev)
 
-# dependencies
-import sys
-import signal
-# lib
-from lib.args import args,parser
-from lib.banner import banner, __version__
-from lib.output import *
-from lib.format import *
-from lib.logger import Logger
-# scanners
-from scanners import numverify
-from scanners import localscan
-from scanners import ovh
-from scanners.footprints import osintScan
-from scanners import recon
+# dependenciecc
 
 
 def scanNumber(InputNumber):
